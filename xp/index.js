@@ -1,5 +1,5 @@
 let nome = "Vitor";
-let xp = 2000;
+let xp = 2001;
 let nivel;
 
 switch (true) {
